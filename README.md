@@ -4,7 +4,7 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/050620f6-ab98-4a26-810e-4651302d33b4/deploy-status" />
+  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/9555e02f-68d7-43e7-ba85-d525b306d33d/deploy-status" />
 </p>
 
 ### Screenshot
@@ -13,12 +13,12 @@
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Netlify]()
+- Solution URL: [Github](https://github.com/MSPayneII/react-grocery-list-builder)
+- Live Site URL: [Netlify](https://mspayneii-react-grocery-list-builder.netlify.app/)
 
 ## Reason for choosing this project:
 
-This was a simple hands-on React project provided by John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with forms, useState, useEffect, editing, and deleting list items.
+This was a hands-on React project provided by John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with forms, useState, useEffect, editing, and deleting list items.
 
 ## Functionality:
 
